@@ -22,7 +22,7 @@ public class Insertion {
 			String name=sc.next();
 			System.out.println("enter student city");
 			String city=sc.next();
-			System.out.println("enter student city");
+			System.out.println("enter student course");
 			String course=sc.next();
 			System.out.println("enter student marks");
 			int marks=sc.nextInt();
